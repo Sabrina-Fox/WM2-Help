@@ -52,12 +52,12 @@ For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray 
 5. Change XHC1 Port 1 to “Disabled”
 6. Save and exit BIOS
 
-# Unlock the TDP to 45W
+# Unlock higher than 28W TDP
 1. <b>DO IT AT YOUR OWN RISK </b>
 2. Go to bios by pressing del key during start up process
 3. While in bios menu, press ALT+F5 to access the hidden menu
 4. Navigate to the following path Second Advance-> AMD CBS-> SMU Common Options
-5. Change the values as follow
+5. Change the values as follow or to the TDP you want, value is in mW
 ![Advanced Menu.](/img/cpu_oc_1.jpg "Advanced Menu")
 6. Go to the SmartShift Control menu, and set it as follow
 ![Advanced Menu.](/img/cpu_oc_2.jpg "Advanced Menu")

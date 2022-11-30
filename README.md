@@ -13,7 +13,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 8. Touch screen deadzones. Make sure all corners of the screen can be touched correctly. (I'd recommend touching and dragging each corner on the desktop to test this)
 9. Make sure touch pad isn't going insane. (If it is, install firmware update from gpd) https://drive.google.com/file/d/1QlJEQPft1qemrM8F5jseteMwCc7-kVY_/view
 10. Make sure screen is glued correctly (Some dude could see into his unit through a gap in the upper half of the screen lmao)
-11. Do a full scan for malware with Microsoft defender. It should catch whatever worm or virus if any. Or just reinstall OS if you aren't lazy like me. 
+11. Do a full scan for malware with Microsoft defender. It should catch whatever worm or virus if any. Or just reinstall OS if you aren't lazy like me.
 12. Test analog stick circularity. (https://gamepad-tester.com/)
 13. Make sure keycaps don't have cracks in them.
 14. Make sure Dpad is working correctly.
@@ -34,7 +34,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 12. Ciphray's TDP bat menu(https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
 
 # Useful information
-1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily. 
+1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.
 
 # Known issues
 1. Some specific charger would cause the WM2 to lower its TDP when plugged in.
@@ -51,3 +51,14 @@ For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray 
 4. Go to Chipset > South Bridge > SB USB Configuration > USB1 Ports
 5. Change XHC1 Port 1 to “Disabled”
 6. Save and exit BIOS
+
+# Unlock the TDP to 45W
+1. <b>DO IT AT YOUR OWN RISK </b>
+2. Go to bios by pressing del key during start up process
+3. While in bios menu, press ALT+F5 to access the hidden menu
+4. Navigate to the following path Second Advance-> AMD CBS-> SMU Common Options
+5. Change the values as follow
+![Advanced Menu.](/img/cpu_oc_1.jpg "Advanced Menu")
+6. Go to the SmartShift Control menu, and set it as follow
+![Advanced Menu.](/img/cpu_oc_2.jpg "Advanced Menu")
+7. Press ESC to get to the main menu, go to Save & Exit, and select Save Changes and Exit, and then select Yes, machine will reboot, and overclock profile will be set.

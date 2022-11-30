@@ -1,7 +1,7 @@
 # A list of things useful to owners of the GPD Win Max 2
 
 # A check list of things to check on a new device
-## credits to SuperSexySoapTurtle#6606 on discord.
+###### Credits to SuperSexySoapTurtle#6606 on discord.
 1. Test gpu under load for black screen. (Use graphically heavy games, 3dmark, photoshop, etc.)
 2. Check bios version to make sure its up to date (Only update if necessary, see #1)
 3. Test all keyboard keys (A lot of people are having issues with missed inputs) If you're having issues, try putting tape under the keycap

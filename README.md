@@ -1,7 +1,6 @@
-# WM2-Help
-##A list of things useful to owners of the GPD Win Max 2
+# A list of things useful to owners of the GPD Win Max 2
 
-###### A check list of things to check on a new device, credits to SuperSexySoapTurtle#6606 on discord.
+## A check list of things to check on a new device, credits to SuperSexySoapTurtle#6606 on discord.
 1. Test gpu under load for black screen. (Use graphically heavy games, 3dmark, photoshop, etc.)
 2. Check bios version to make sure its up to date (Only update if necessary, see #1)
 3. Test all keyboard keys (A lot of people are having issues with missed inputs) If you're having issues, try putting tape under the keycap
@@ -19,7 +18,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 14. Make sure Dpad is working correctly.
 15. Make sure remote play is working correctly. (A user was having issues with the screen randomly going black and having to force the machine to shut down.)
 
-######Tools:
+## Tools:
 AMD Software: Adrenalin Edition(https://www.amd.com/en/support)
 Driver pack from GPD(https://drive.google.com/file/d/161AkrveUcKXvo2ZEnsnmK-NPVLaCbc7r/view?usp=sharing)
 Windows 11 21H2 with inclued drivers from GPD(https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)
@@ -33,8 +32,8 @@ Performance overlay for WM2(https://discord.com/channels/243411108940087297/8269
 WM2 Bios files(https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)
 Ciphray's TDP bat menu(https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
 
-##Workarounds
-######SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord.
+## Workarounds
+###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord.
 For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray has found a temporary solution that will work until GPD comes up with a fix. It lowers your SD readers speeds to USB 2.0 speeds, but they will stop having problems.
 
 1. Shut your WM2 down

@@ -1,6 +1,7 @@
 # A list of things useful to owners of the GPD Win Max 2
 
-# A check list of things to check on a new device, credits to SuperSexySoapTurtle#6606 on discord.
+# A check list of things to check on a new device
+## credits to SuperSexySoapTurtle#6606 on discord.
 1. Test gpu under load for black screen. (Use graphically heavy games, 3dmark, photoshop, etc.)
 2. Check bios version to make sure its up to date (Only update if necessary, see #1)
 3. Test all keyboard keys (A lot of people are having issues with missed inputs) If you're having issues, try putting tape under the keycap
@@ -19,17 +20,17 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 15. Make sure remote play is working correctly. (A user was having issues with the screen randomly going black and having to force the machine to shut down.)
 
 # Tools:
-1. AMD Software: Adrenalin Edition(https://www.amd.com/en/support)<br />
-2. Driver pack from GPD(https://drive.google.com/file/d/161AkrveUcKXvo2ZEnsnmK-NPVLaCbc7r/view?usp=sharing)<br />
-3. Windows 11 21H2 with inclued drivers from GPD(https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br />
-4. WIN Max 2 grip customization tool(https://www.gpd.hk/filedownload/88995)<br />
-5. MotionAssistant(https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)<br />
-6. GamePad Test Calibration Tool V1.02(https://www.gpd.hk/filedownload/89292)<br />
-7. Power Control Panel(https://github.com/project-sbc/Power-Control-Panel-v2)<br />
-8. GPD Gamepad Firmware Tool V3.09/V1.21 (https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br />
+1. AMD Software: Adrenalin Edition(https://www.amd.com/en/support)<br/>
+2. Driver pack from GPD(https://drive.google.com/file/d/161AkrveUcKXvo2ZEnsnmK-NPVLaCbc7r/view?usp=sharing)<br/>
+3. Windows 11 21H2 with inclued drivers from GPD(https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br/>
+4. WIN Max 2 grip customization tool(https://www.gpd.hk/filedownload/88995)<br/>
+5. MotionAssistant(https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)<br/>
+6. GamePad Test Calibration Tool V1.02(https://www.gpd.hk/filedownload/89292)<br/>
+7. Power Control Panel(https://github.com/project-sbc/Power-Control-Panel-v2)<br/>
+8. GPD Gamepad Firmware Tool V3.09/V1.21 (https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br/>
 9. Script for adding extra resolutions and refresh rates(https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
-10. Performance overlay for WM2(https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br />
-11. WM2 Bios files(https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br />
+10. Performance overlay for WM2(https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
+11. WM2 Bios files(https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
 12. Ciphray's TDP bat menu(https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
 
 # Useful information

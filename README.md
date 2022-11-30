@@ -41,7 +41,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
 
 # Workarounds
-###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord.
+###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>
 For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray has found a temporary solution that will work until GPD comes up with a fix. It lowers your SD readers speeds to USB 2.0 speeds, but they will stop having problems.
 
 1. Shut your WM2 down

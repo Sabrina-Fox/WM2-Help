@@ -19,7 +19,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 14. Make sure Dpad is working correctly.
 15. Make sure remote play is working correctly. (A user was having issues with the screen randomly going black and having to force the machine to shut down.)
 
-#Options for adjusting TDP in windows
+# Options for adjusting TDP in windows
 1. MotionAssistant
 2. Ciphray's TDP bat menu
 3. Power Control Panel

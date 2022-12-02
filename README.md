@@ -19,6 +19,11 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 14. Make sure Dpad is working correctly.
 15. Make sure remote play is working correctly. (A user was having issues with the screen randomly going black and having to force the machine to shut down.)
 
+#Options for adjusting TDP in windows
+1. MotionAssistant
+2. Ciphray's TDP bat menu
+3. Power Control Panel
+
 # Tools:
 1. AMD Software: Adrenalin Edition(https://www.amd.com/en/support)<br/>
 2. Driver pack from GPD(https://drive.google.com/file/d/161AkrveUcKXvo2ZEnsnmK-NPVLaCbc7r/view?usp=sharing)<br/>
@@ -39,22 +44,26 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 3. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p.
 ![image](https://user-images.githubusercontent.com/74781086/205165719-66f6aeb6-fe70-4712-878d-a348c3253339.png)
 
-
 # Known issues
 1. Some specific charger would cause the WM2 to lower its TDP when plugged in.
 2. On some units the SD card slots will constantly disconnet and reconnect rendering it unuseable.(See below for workaround)
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
+4. Some spacebars doesn't trigger consistently. 
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>
 For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray has found a temporary solution that will work until GPD comes up with a fix. It lowers your SD readers speeds to USB 2.0 speeds, but they will stop having problems.
-
 1. Shut your WM2 down
 2. Boot and press delete until you enter the bios screen
 3. Hold ALT and press F5 to see advanced BIOS
 4. Go to Chipset > South Bridge > SB USB Configuration > USB1 Ports
 5. Change XHC1 Port 1 to “Disabled”
 6. Save and exit BIOS
+###### Workaround for inconsistent spacebar, credits to zero3growlithe#2048 on discord.
+1. Detach the spacebar keycap (find tutorial on YT for laptop keyboards in general, the principle is the same) - be very careful!
+2. Under the keycap, right in the center, stick a small piece of 1mm thick tape
+3. Attach the keycap back to the keyboard
+4. Enjoy!
 
 # Unlock higher than 28W TDP
 1. <b>DO IT AT YOUR OWN RISK </b>

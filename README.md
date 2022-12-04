@@ -50,6 +50,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 2. On some units the SD card slots will constantly disconnet and reconnect rendering it unuseable.(See below for workaround)
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
 4. Some spacebars doesn't trigger consistently. 
+5. Some units have erratic touchpads and registers random touches.
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>
@@ -65,6 +66,8 @@ For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray 
 2. Under the keycap, right in the center, stick a small piece of 1mm thick tape
 3. Attach the keycap back to the keyboard
 4. Enjoy!
+###### Potential fix for touchpad issues.
+1. https://discord.com/channels/243411108940087297/802730777443958824/1034599276698935378
 
 # Unlock higher than 28W TDP
 1. <b>DO IT AT YOUR OWN RISK </b>

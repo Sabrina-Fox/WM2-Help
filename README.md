@@ -46,8 +46,8 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 ![image](https://user-images.githubusercontent.com/74781086/205165719-66f6aeb6-fe70-4712-878d-a348c3253339.png)
 4a. 3D printable grips and stand.(https://www.printables.com/model/327602-grips-for-gpd-win-max-2)<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)
-
 4b. 3D printable grips(https://www.printables.com/model/326903-gpd-win-max-2-grips)<br/>
+![image](https://user-images.githubusercontent.com/74781086/206533789-085c0d6e-0363-49ab-9504-b6147b6d403b.png)
 
 # Known issues
 1. Some specific charger would cause the WM2 to lower its TDP when plugged in.

@@ -98,7 +98,7 @@ For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray 
 3. While in bios menu, press ALT+F5 to access the hidden menu
 4. Navigate to the following path Second Advance-> AMD CBS-> SMU Common Options
 5. Change the values as follow or to the TDP you want, value is in mW
-![cpu_oc_1](https://user-images.githubusercontent.com/74781086/206560019-c329382d-0c79-4d82-806b-961e97c2f3cc.jpg)
+![SMU](https://user-images.githubusercontent.com/74781086/206560019-c329382d-0c79-4d82-806b-961e97c2f3cc.jpg)
 6. Go to the SmartShift Control menu, and set it as follow
-![unknown-min](https://user-images.githubusercontent.com/74781086/206560120-0cb52aa8-247b-44ef-9e0c-0fa8f3c5f40d.png)
+![SmartShift menu](https://user-images.githubusercontent.com/74781086/206560120-0cb52aa8-247b-44ef-9e0c-0fa8f3c5f40d.png)
 7. Press ESC to get to the main menu, go to Save & Exit, and select Save Changes and Exit, and then select Yes, machine will reboot, and overclock profile will be set.

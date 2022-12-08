@@ -47,7 +47,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 3b. Secondary voltage referenced to mains earth.<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535040-3858f99c-4b7b-4357-b6d0-5439fddd06ae.png)
 3c. Included charger under full 100w load, note the voltage drop is due to the cable used in the test and is the same for other power supplies.<br/>
-![image](https://user-images.githubusercontent.com/74781086/206535289-74cc88b5-613e-4ca1-88af-ea797e4f6e00.png)
+![image](https://user-images.githubusercontent.com/74781086/206535289-74cc88b5-613e-4ca1-88af-ea797e4f6e00.png)<br/>
 4a. 3D printable grips and stand.(https://www.printables.com/model/327602-grips-for-gpd-win-max-2)<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)
 4b. 3D printable grips(https://www.printables.com/model/326903-gpd-win-max-2-grips)<br/>

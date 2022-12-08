@@ -69,6 +69,7 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
 4. Some spacebars doesn't trigger consistently. (See below for workaround)
 5. Some units have erratic touchpads and registers random touches.(See below for potential fix)
+6. Some Bitrates and Sample Rates for the built-in DAC are sometimes missing on windows.(See below for fix) 
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>
@@ -86,6 +87,11 @@ For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray 
 4. Enjoy!
 ###### Potential fix for touchpad issues.
 1. https://discord.com/channels/243411108940087297/802730777443958824/1034599276698935378
+###### Fix for missing Bitrates and Sample Rates for built-in DAC, credits to Goose#6003 on discord.
+1. Go to Device Manager and click the dropdown for Sound, Video and Game Controllers
+2. Right click Senary drivers -> uninstall -> check the box that says something about deleting the driver software, Continue. 
+3. Reboot once the drivers are uninstalled.
+4. Upon your next boot, you'll have the Windows HD audio drivers installed instead of the Senary drivers.
 
 # Unlock higher than 28W TDP
 1. <b>DO IT AT YOUR OWN RISK </b>

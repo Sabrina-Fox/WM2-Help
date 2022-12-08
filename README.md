@@ -44,7 +44,9 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 2. All WM2 comes with the same PD 20v 5A charger with a 1 meter cable in box, the charger uses the Chinese/US two prong plug and comes with an adapter for your region if your plug is different.
 3. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p.
 ![image](https://user-images.githubusercontent.com/74781086/205165719-66f6aeb6-fe70-4712-878d-a348c3253339.png)
-4a. 3D printable grips(https://www.printables.com/model/327602-grips-for-gpd-win-max-2)<br/>
+4a. 3D printable grips and stand.(https://www.printables.com/model/327602-grips-for-gpd-win-max-2)<br/>
+![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)
+
 4b. 3D printable grips(https://www.printables.com/model/326903-gpd-win-max-2-grips)<br/>
 
 # Known issues

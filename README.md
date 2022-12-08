@@ -46,9 +46,9 @@
 ![image](https://user-images.githubusercontent.com/74781086/206535040-3858f99c-4b7b-4357-b6d0-5439fddd06ae.png)
 3c. Included charger under full 100w load, note the voltage drop is due to the cable used in the test and due to using a two point measurement instead of a four point measurement, the voltage drop is the same for other power supplies when running the same two point measurement.<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535289-74cc88b5-613e-4ca1-88af-ea797e4f6e00.png)<br/>
-4a. [3D printable grips and stand](https://www.printables.com/model/327602-grips-for-gpd-win-max-2)<br/>
+4a. [3D printable grips and stand](https://www.printables.com/model/327602-grips-for-gpd-win-max-2) by Qaz#5952 on Discord<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)
-4b. [3D printable grips](https://www.printables.com/model/326903-gpd-win-max-2-grips)<br/>
+4b. [3D printable grips](https://www.printables.com/model/326903-gpd-win-max-2-grips) by Tåkefyrsten#5455 on Discord<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533789-085c0d6e-0363-49ab-9504-b6147b6d403b.png)
 5. Links to various accessories for the WM2 on Aliexpress and Taobao.
 ###### Aliexpress links for overseas buyers.

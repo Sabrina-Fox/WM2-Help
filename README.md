@@ -5,13 +5,12 @@
 1. Test gpu under load for black screen. (Use graphically heavy games, 3dmark, photoshop, etc.)
 2. Check bios version to make sure its up to date (Only update if necessary, see #1)
 3. Test all keyboard keys (A lot of people are having issues with missed inputs) If you're having issues, try putting tape under the keycap
-4. Test analog deadzones and update firmware if needed
-https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file
+4. Test analog deadzones and [update firmware](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file) if needed
 5. Test for static shock (Some dude was getting shocked by his unit occasionally lmao)
 6. Look for dead pixels
 7. Test if micro sd & sd card can be read. A lot of users were having issues with it disconnecting and reconnecting. This problem doesn't immediately show up, so if you use  SD and Micro SD a lot, I would monitor this.
 8. Touch screen deadzones. Make sure all corners of the screen can be touched correctly. (I'd recommend touching and dragging each corner on the desktop to test this)
-9. Make sure touch pad isn't going insane. (If it is, install firmware update from gpd) https://drive.google.com/file/d/1QlJEQPft1qemrM8F5jseteMwCc7-kVY_/view
+9. Make sure touch pad isn't going insane. (If it is, install [firmware update](https://drive.google.com/file/d/1QlJEQPft1qemrM8F5jseteMwCc7-kVY_/view) from gpd)
 10. Make sure screen is glued correctly (Some dude could see into his unit through a gap in the upper half of the screen lmao)
 11. Do a full scan for malware with Microsoft defender. It should catch whatever worm or virus if any. Or just reinstall OS if you aren't lazy like me.
 12. [Test analog stick circularity.](https://gamepad-tester.com/)

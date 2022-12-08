@@ -53,8 +53,8 @@ https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2
 1. Some specific charger would cause the WM2 to lower its TDP when plugged in.
 2. On some units the SD card slots will constantly disconnet and reconnect rendering it unuseable.(See below for workaround)
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
-4. Some spacebars doesn't trigger consistently. 
-5. Some units have erratic touchpads and registers random touches.
+4. Some spacebars doesn't trigger consistently. (See below for workaround)
+5. Some units have erratic touchpads and registers random touches.(See below for potential fix)
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>

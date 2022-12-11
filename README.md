@@ -77,13 +77,19 @@
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>
-For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray has found a temporary solution that will work until GPD comes up with a fix. It lowers your SD readers speeds to USB 2.0 speeds, but they will stop having problems.
+For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray has found a temporary solution that will work until GPD comes up with a fix. It lowers your SD readers speeds to USB 2.0 speeds, but they will stop having problems.<br/>
+
+
+https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-aa8d-735079147608.mp4
+
+
 1. Shut your WM2 down
 2. Boot and press delete until you enter the bios screen
 3. Hold ALT and press F5 to see advanced BIOS
 4. Go to Chipset > South Bridge > SB USB Configuration > USB1 Ports
 5. Change XHC1 Port 1 to “Disabled”
 6. Save and exit BIOS
+
 ###### Workaround for inconsistent spacebar, credits to zero3growlithe#2048 on discord.
 1. Detach the spacebar keycap (find tutorial on YT for laptop keyboards in general, the principle is the same) - be very careful!
 2. Under the keycap, right in the center, stick a small piece of 1mm thick tape
@@ -98,6 +104,7 @@ For anyone having SD/MicroSD disconnect/reconnect issues, the wonderful Ciphray 
 4. Upon your next boot, you'll have the Windows HD audio drivers installed instead of the Senary drivers.
 
 # Unlock higher than 28W TDP
+https://user-images.githubusercontent.com/74781086/206918098-b3bf757f-b76e-4b6c-bb35-13d043470f6d.mp4
 1. <b>DO IT AT YOUR OWN RISK </b>
 2. Go to bios by pressing del key during start up process
 3. While in bios menu, press ALT+F5 to access the hidden menu

@@ -20,8 +20,12 @@
 
 # Options for adjusting TDP in windows
 1. [MotionAssistant](https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)
+![image](https://user-images.githubusercontent.com/74781086/206900528-78ebc193-3de2-4c25-8db9-64c0131650b3.png)
 2. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
-3. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)
+![image](https://user-images.githubusercontent.com/74781086/206900455-b058a29e-f4ae-438d-b444-5b2dcbcfa981.png)
+4. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)
+![image](https://user-images.githubusercontent.com/74781086/206900406-57df3589-3ee1-47e6-a303-9cdc6c9552c1.png)
+
 
 # Tools:
 1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)<br/>

@@ -103,6 +103,14 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 3. Reboot once the drivers are uninstalled.
 4. Upon your next boot, you'll have the Windows HD audio drivers installed instead of the Senary drivers.
 
+# Changing amount VRAM allocated to iGPU
+1. Enter BIOS by holding the DEL key during boot
+2. Go to "Advanced" tab
+3. Go to "GFX Configuration"
+4. Change "UMA Frame buffer Size" to desired value, the recommended value is 4GB for 16GB RAM model and 8GB for 32GB RAM model.
+5. Press ESC and go to "Save & Exit" tab
+6. Select "Save Changes and Exit" and select "Yes" 
+
 # Unlock higher than 28W TDP
 https://user-images.githubusercontent.com/74781086/206918098-b3bf757f-b76e-4b6c-bb35-13d043470f6d.mp4
 1. <b>DO IT AT YOUR OWN RISK </b>

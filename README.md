@@ -32,6 +32,7 @@
 2. [Driver pack from GPD](https://drive.google.com/file/d/1mOHvOyzgnDiF7wuaWV8cuNOXxI1txDs1/view)<br/>
 3. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
 4. [Windows 11 21H2 with inclued drivers from GPD](https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br/>
+###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 5. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)<br/>
 6. [MotionAssistant](https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)<br/>
 7. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)<br/>

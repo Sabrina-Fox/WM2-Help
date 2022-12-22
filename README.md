@@ -123,3 +123,5 @@ https://user-images.githubusercontent.com/74781086/206918098-b3bf757f-b76e-4b6c-
 6. Go to the SmartShift Control menu, and set it as follow
 ![SmartShift menu](https://user-images.githubusercontent.com/74781086/206560120-0cb52aa8-247b-44ef-9e0c-0fa8f3c5f40d.png)
 7. Press ESC to get to the main menu, go to Save & Exit, and select Save Changes and Exit, and then select Yes, machine will reboot, and overclock profile will be set.
+
+![image](https://user-images.githubusercontent.com/74781086/209065740-00fad02d-b789-478c-8f86-8b1bee5e1a3a.png)

@@ -41,6 +41,15 @@
 10. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
 11. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
 12. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+###### Credits to miracy#7746 on Discord for the instructions.
+###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
+###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.
+###### 3. Shut the computer down. Turn it back on and press delete at the beginning of the boot sequence to open the UEFI (you can spam it).
+###### 4. In UEFI, you need to disable Secure Boot. If advanced is turned on, this is several tabs over, I think under Advanced, and you'll see Secure Boot as an option in one of the tabs - hit that and then choose disable.
+###### 5. Then go to the boot tab and make sure that the first device in the boot order is the USB (or however you want to boot from the USB, boot from the USB now)
+###### 6. You'll get text on the screen (if you did not do 4, you will get a red window saying that the signature was invalid). and then you press any key to continue. It will take several minutes to install the UEFI. This installer just suddenly makes the computer turn off without warning, after all the steps are done (the last screen has several bar meters that fill up).
+###### 7. At this point, unplug the USB drive. I had to turn the computer on manually again. It takes some extra time for the boot logo to come up - just be patient. Use delete to enter UEFI again and undo steps 4-5 as needed (turn secure boot back on and change the primary boot drive back to the NVME).
+###### 8. When you get back to Windows, you should not need to undo 2. Or at least Bitlocker had turned itself back on by this time.
 13. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
 
 # Useful information

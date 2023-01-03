@@ -34,13 +34,14 @@
 4. [Windows 11 21H2 with inclued drivers from GPD](https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 5. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)<br/>
-6. [MotionAssistant](https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)<br/>
-7. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)<br/>
-8. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)<br/>
-9. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br/>
-10. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
-11. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
-12. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+6. [WinControls v1.06](https://www.gpd.hk/filedownload/88995)
+7. [MotionAssistant](https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)<br/>
+8. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)<br/>
+9. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)<br/>
+10. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br/>
+11. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
+12. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
+13. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
 ###### Credits to miracy#7746 on Discord for the instructions.
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
 ###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.

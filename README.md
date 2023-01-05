@@ -35,7 +35,7 @@
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 5. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)<br/>
 6. [WinControls v1.06](https://www.gpd.hk/filedownload/88995)
-7. [MotionAssistant](https://discord.com/channels/243411108940087297/826965330965430272/1037625013441933382)<br/>
+7. [MotionAssistant 1.1.5.5](https://drive.google.com/file/d/1nXgSnVt_8Fjwuj2XUgyZddEZkaBLFxD6/view?usp=share_link)<br/>
 8. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)<br/>
 9. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)<br/>
 10. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br/>

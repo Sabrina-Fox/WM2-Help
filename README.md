@@ -42,6 +42,7 @@
 11. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
 12. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
 13. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+14. [WM2 1.05 Bios files](https://drive.google.com/file/d/1QDxop-R8PEQ6uLCJDsu4gTd4ULfbFTVV/view?usp=share_link)
 ###### Credits to miracy#7746 on Discord for the instructions.
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
 ###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.
@@ -51,7 +52,7 @@
 ###### 6. You'll get text on the screen (if you did not do 4, you will get a red window saying that the signature was invalid). and then you press any key to continue. It will take several minutes to install the UEFI. This installer just suddenly makes the computer turn off without warning, after all the steps are done (the last screen has several bar meters that fill up).
 ###### 7. At this point, unplug the USB drive. I had to turn the computer on manually again. It takes some extra time for the boot logo to come up - just be patient. Use delete to enter UEFI again and undo steps 4-5 as needed (turn secure boot back on and change the primary boot drive back to the NVME).
 ###### 8. When you get back to Windows, you should not need to undo 2. Or at least Bitlocker had turned itself back on by this time.
-13. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
+15. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
 
 # Useful information
 1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.

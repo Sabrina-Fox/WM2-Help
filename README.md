@@ -97,9 +97,10 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 1. Shut your WM2 down
 2. Boot and press delete until you enter the bios screen
 3. Hold ALT and press F5 to see advanced BIOS
-4. Go to Chipset > South Bridge > SB USB Configuration > USB1 Ports
-5. Change XHC1 Port 1 to “Disabled”
-6. Save and exit BIOS
+4. Save and restart and enter the BIOS again.
+5. Go to Chipset > South Bridge > SB USB Configuration > USB1 Ports
+6. Change XHC1 Port 1 to “Disabled”
+7. Save and exit BIOS
 
 ###### Workaround for inconsistent spacebar, credits to zero3growlithe#2048 on discord.
 1. Detach the spacebar keycap (find tutorial on YT for laptop keyboards in general, the principle is the same) - be very careful!
@@ -127,12 +128,13 @@ https://user-images.githubusercontent.com/74781086/206918098-b3bf757f-b76e-4b6c-
 1. <b>DO IT AT YOUR OWN RISK </b>
 2. Go to bios by pressing del key during start up process
 3. While in bios menu, press ALT+F5 to access the hidden menu
-4. Navigate to the following path Second Advance-> AMD CBS-> SMU Common Options
-5. Change the values as follow or to the TDP you want, value is in mW
+4. Save and restart and enter the BIOS again.
+5. Navigate to the following path Second Advance-> AMD CBS-> SMU Common Options
+6. Change the values as follow or to the TDP you want, value is in mW
 ![SMU](https://user-images.githubusercontent.com/74781086/206560019-c329382d-0c79-4d82-806b-961e97c2f3cc.jpg)
-6. Go to the SmartShift Control menu, and set it as follow
+7. Go to the SmartShift Control menu, and set it as follow
 ![SmartShift menu](https://user-images.githubusercontent.com/74781086/206560120-0cb52aa8-247b-44ef-9e0c-0fa8f3c5f40d.png)
-7. Press ESC to get to the main menu, go to Save & Exit, and select Save Changes and Exit, and then select Yes, machine will reboot, and overclock profile will be set.
+8. Press ESC to get to the main menu, go to Save & Exit, and select Save Changes and Exit, and then select Yes, machine will reboot, and overclock profile will be set.
 
 # Extra stuff lol
 ![image](https://user-images.githubusercontent.com/74781086/209065740-00fad02d-b789-478c-8f86-8b1bee5e1a3a.png)

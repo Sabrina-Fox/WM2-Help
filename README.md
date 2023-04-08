@@ -25,6 +25,8 @@
 ![TDP Bat](https://user-images.githubusercontent.com/74781086/206900455-b058a29e-f4ae-438d-b444-5b2dcbcfa981.png)
 3. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)
 ![PCP](https://user-images.githubusercontent.com/74781086/206900406-57df3589-3ee1-47e6-a303-9cdc6c9552c1.png)
+4. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+![HC](https://user-images.githubusercontent.com/14330834/184693435-7df5ad40-ddb1-4359-9335-1a5804441dc3.png)
 
 
 # Tools:
@@ -42,6 +44,7 @@
 11. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
 12. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
 13. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+14. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
 ###### Credits to miracy#7746 on Discord for the instructions.
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
 ###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.

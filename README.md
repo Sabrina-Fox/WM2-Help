@@ -29,7 +29,7 @@
 
 # Tools:
 1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)<br/>
-2. [Driver pack from GPD](https://drive.google.com/file/d/1mOHvOyzgnDiF7wuaWV8cuNOXxI1txDs1/view)<br/>
+2. [Driver pack from GPD(V5)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)<br/>
 3. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
 4. [Windows 11 21H2 with inclued drivers from GPD](https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.

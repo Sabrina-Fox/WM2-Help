@@ -61,7 +61,7 @@ A list of things useful to owners of the GPD Win Max 2
 # Useful information
 1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.
 2. All WM2 comes with the same PD 20v 5A charger with a 1 meter cable in box, the charger uses the Chinese/US two prong plug and comes with an adapter for your region if your plug is different.
-3a. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p at 20MHz BW limit.<br/>
+3a. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p(0.55% of output) at 20MHz BW limit.<br/>
 ![image](https://user-images.githubusercontent.com/74781086/205165719-66f6aeb6-fe70-4712-878d-a348c3253339.png)
 3b. Secondary voltage referenced to mains earth.<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535040-3858f99c-4b7b-4357-b6d0-5439fddd06ae.png)

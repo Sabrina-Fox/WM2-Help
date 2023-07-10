@@ -71,7 +71,8 @@ A list of things useful to owners of the GPD Win Max 2
 ![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)
 4b. [3D printable grips](https://www.printables.com/model/326903-gpd-win-max-2-grips) by Tåkefyrsten#5455 on Discord<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533789-085c0d6e-0363-49ab-9504-b6147b6d403b.png)
-5. Links to various accessories for the WM2 on Aliexpress and Taobao.
+5. [Video](https://www.youtube.com/watch?v=mC0WuAD7fIo) instructions on how to install the LTE module<br/>
+6. Links to various accessories for the WM2 on Aliexpress and Taobao.
 ###### Aliexpress links for overseas buyers.
 ###### 1. [Carrying case](https://www.aliexpress.com/item/1005004981462180.html?spm=a2g0o.productlist.0.0.1eb01ffcAcvSBg&algo_pvid=9ddfd655-645c-4b1a-8e83-c76be23516ce&algo_exp_id=9ddfd655-645c-4b1a-8e83-c76be23516ce-17&pdp_ext_f=%7B%22sku_id%22%3A%2212000031229958523%22%7D&pdp_npi=2%40dis%21HKD%21180.44%21119.08%21%21%21%21%21%402101e9d216705247710423384e86be%2112000031229958523%21sea&curPageLogUid=mVdTrTNmzWS6)
 ###### 2. [Keyboard cover](https://www.aliexpress.com/item/1005004825576824.html?spm=a2g0o.productlist.0.0.1eb01ffcAcvSBg&algo_pvid=9ddfd655-645c-4b1a-8e83-c76be23516ce&algo_exp_id=9ddfd655-645c-4b1a-8e83-c76be23516ce-21&pdp_ext_f=%7B%22sku_id%22%3A%2212000030631672795%22%7D&pdp_npi=2%40dis%21HKD%2173.0%2173.0%21%21%21%21%21%402101e9d216705247710423384e86be%2112000030631672795%21sea&curPageLogUid=g42LBIfJ7Ywm)
@@ -119,6 +120,10 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 2. Right click Senary drivers -> uninstall -> check the box that says something about deleting the driver software, Continue. 
 3. Reboot once the drivers are uninstalled.
 4. Upon your next boot, you'll have the Windows HD audio drivers installed instead of the Senary drivers.
+###### Potential fix for touchscreen or other hardware(eg. fingerprint sensor) related issues.
+1. Shutdown the WM2 completely.
+2. Use something thin(eg. a needle or a sim eject tool) and press the reset button on the left side of the WM2 inside the pin hole and hold it down for 5-10 seconds.(Note that this will reset any changes to the BIOS.)
+3. Restart the device.
 
 # Changing amount VRAM allocated to iGPU
 1. Enter BIOS by holding the DEL key during boot

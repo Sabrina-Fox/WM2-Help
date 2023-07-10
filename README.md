@@ -28,6 +28,9 @@ A list of things useful to owners of the GPD Win Max 2
 ![PCP](https://user-images.githubusercontent.com/74781086/206900406-57df3589-3ee1-47e6-a303-9cdc6c9552c1.png)
 4. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
 ![HC](https://user-images.githubusercontent.com/14330834/184693435-7df5ad40-ddb1-4359-9335-1a5804441dc3.png)
+5. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)
+![HCP](https://github.com/SabrinaRDC/WM2-Help/assets/74781086/e0123c3d-29b0-42bf-ba0d-280909f005ea)
+
 
 
 # Tools:
@@ -46,8 +49,9 @@ A list of things useful to owners of the GPD Win Max 2
 12. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
 13. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)<br/>
 14. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)<br/>
-15. [Calibration file for the WM2 screen courtesy of Cwiiis#7703 on discord.](https://discord.com/channels/243411108940087297/802730777443958824/1057673626435989544)<br/>
-16. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+15. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)<br/>
+16. [Calibration file for the WM2 screen courtesy of Cwiiis#7703 on discord.](https://discord.com/channels/243411108940087297/802730777443958824/1057673626435989544)<br/>
+17. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
 ###### Credits to miracy#7746 on Discord for the instructions.
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
 ###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.

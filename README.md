@@ -30,6 +30,9 @@ A list of things useful to owners of the GPD Win Max 2
 ![HC](https://user-images.githubusercontent.com/14330834/184693435-7df5ad40-ddb1-4359-9335-1a5804441dc3.png)
 5. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)
 ![HCP](https://github.com/SabrinaRDC/WM2-Help/assets/74781086/e0123c3d-29b0-42bf-ba0d-280909f005ea)
+6. [RyzenAdj](https://github.com/FlyGoat/RyzenAdj)
+# Options for adjusting TDP in Linux
+1. [RyzenAdj](https://github.com/FlyGoat/RyzenAdj)
 
 
 

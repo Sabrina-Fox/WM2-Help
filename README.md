@@ -97,9 +97,10 @@ A list of things useful to owners of the GPD Win Max 2
 1. Some specific charger would cause the WM2 to lower its TDP when plugged in.
 2. On some units the SD card slots will constantly disconnet and reconnect rendering it unuseable.(See below for workaround)
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
-4. Some spacebars doesn't trigger consistently. (See below for workaround)
+4. Some spacebars doesn't trigger consistently. (See below for fix)
 5. Some units have erratic touchpads and registers random touches.(See below for potential fix)
-6. Some Bitrates and Sample Rates for the built-in DAC are sometimes missing on windows.(See below for fix) 
+6. Some Bitrates and Sample Rates for the built-in DAC are sometimes missing on windows.(See below for fix)
+7. Sometimes the trackpad might stop working and the firmware update tool fails to recognize the device.(See below for potential fix)
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>
@@ -133,7 +134,8 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 1. Shutdown the WM2 completely.
 2. Use something thin(eg. a needle or a sim eject tool) and press the reset button on the left side of the WM2 inside the pin hole and hold it down for 5-10 seconds.(Note that this will reset any changes to the BIOS.)
 3. Restart the device.
-
+###### Fix for trackpad not working and firmware update failing.
+1. Uninstall/Reinstall Motion Assistant.
 # Changing amount VRAM allocated to iGPU
 1. Enter BIOS by holding the DEL key during boot
 2. Go to "Advanced" tab

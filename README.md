@@ -151,7 +151,7 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 5. Press ESC and go to "Save & Exit" tab
 6. Select "Save Changes and Exit" and select "Yes" 
 
-# Unlock higher than 28W TDP
+# Unlock higher than 28W TDP(instructions for 6800u Win Max 2, values will be different for Win Max 2 2023)
 https://user-images.githubusercontent.com/74781086/206918098-b3bf757f-b76e-4b6c-bb35-13d043470f6d.mp4
 1. <b>DO IT AT YOUR OWN RISK </b>
 2. Go to bios by pressing del key during start up process

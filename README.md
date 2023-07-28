@@ -104,6 +104,10 @@ A list of things useful to owners of the GPD Win Max 2
 5. Some units have erratic touchpads and registers random touches.(See below for potential fix)
 6. Some Bitrates and Sample Rates for the built-in DAC are sometimes missing on windows.(See below for fix)
 7. Sometimes the trackpad might stop working and the firmware update tool fails to recognize the device.(See below for potential fix)
+###### Known WM2 2023 specific issues
+1. The 780M iGPU is falsely reported as 760M with the drivers from the inital launch from AMD.
+2. Some HDMI ports are DOA.
+3. Some units cannot run stably with RAM speed at 7500MT/s
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>

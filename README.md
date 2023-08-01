@@ -71,11 +71,11 @@ A list of things useful to owners of the GPD Win Max 2
 # Useful information
 1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.
 2. All WM2 comes with the same PD 20v 5A charger with a 1 meter cable in box, the charger uses the Chinese/US two prong plug and comes with an adapter for your region if your plug is different.
-3a. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p(0.55% of output) at 20MHz BW limit.<br/>
+3a. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p(0.55% of output) at 20MHz BW limit(This results only applies to the stock charger that came with the original Win Max 2 2022).<br/>
 ![image](https://user-images.githubusercontent.com/74781086/205165719-66f6aeb6-fe70-4712-878d-a348c3253339.png)
-3b. Secondary voltage referenced to mains earth.<br/>
+3b. Secondary voltage referenced to mains earth(This results only applies to the stock charger that came with the original Win Max 2 2022).<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535040-3858f99c-4b7b-4357-b6d0-5439fddd06ae.png)
-3c. Included charger under full 100w load, note the voltage drop is due to the cable used in the test and due to using a two point measurement instead of a four point measurement, the voltage drop is the same for other power supplies when running the same two point measurement.<br/>
+3c. Included charger under full 100w load, note the voltage drop is due to the cable used in the test and due to using a two point measurement instead of a four point measurement, the voltage drop is the same for other power supplies when running the same two point measurement(This results only applies to the stock charger that came with the original Win Max 2 2022).<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535289-74cc88b5-613e-4ca1-88af-ea797e4f6e00.png)<br/>
 4a. [3D printable grips and stand](https://www.printables.com/model/327602-grips-for-gpd-win-max-2) by Qaz#5952 on Discord<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)

@@ -41,7 +41,7 @@ A list of things useful to owners of the GPD Win Max 2
 
 # Tools:
 1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)<br/>
-2. [Driver pack from GPD(V5)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)<br/>
+2. [Driver pack from GPD(V5)(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)<br/>
 3. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
 4. [Windows 11 21H2 with inclued drivers from GPD](https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
@@ -53,11 +53,11 @@ A list of things useful to owners of the GPD Win Max 2
 10. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br/>
 11. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
 12. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
-13. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)<br/>
+13. [Ciphray's TDP bat menu(Latest in pinned messages)](https://discord.com/channels/243411108940087297/1065818597844340777)<br/>
 14. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)<br/>
 15. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)<br/>
 16. [Calibration file for the WM2 screen courtesy of Cwiiis#7703 on discord.](https://discord.com/channels/243411108940087297/802730777443958824/1057673626435989544)<br/>
-17. [WM2 Bios files](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+17. [WM2 Bios files(FOR WM2 2022 ONLY)](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
 ###### Credits to miracy#7746 on Discord for the instructions.
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
 ###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.
@@ -98,7 +98,7 @@ A list of things useful to owners of the GPD Win Max 2
 
 # Known issues
 1. Some specific charger would cause the WM2 to lower its TDP when plugged in.
-2. On some units the SD card slots will constantly disconnet and reconnect rendering it unuseable.(See below for workaround)
+2. On some units the SD card slots will constantly disconnet and reconnect rendering it unuseable.(This only happens to WM2 2022)(See below for workaround)
 3. Display out on hubs plugged into the USB 3.2 slot doesn't work and lock the resolution to 800x600
 4. Some spacebars doesn't trigger consistently. (See below for fix)
 5. Some units have erratic touchpads and registers random touches.(See below for potential fix)

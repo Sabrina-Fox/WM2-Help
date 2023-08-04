@@ -19,8 +19,18 @@ A list of things useful to owners of the GPD Win Max 2
 14. Make sure Dpad is working correctly.
 15. Make sure remote play is working correctly. (A user was having issues with the screen randomly going black and having to force the machine to shut down.)
 ###### Extra things to check for the Win Max 2 2023 refresh.
-1. Functionality of the onboard HDMI port.
-2. If the device is able to run stably with the RAM speed at 7500MT/s
+1. Functionality of the onboard HDMI port (some units arrived with them dead).
+2. If the device is able to run stably with the RAM speed at 7500MT/s.
+3. Check Advanced->AMD PBS->Display Configurations, make sure all is recognized properly.
+4. USB-C display out on both ports (note: hard to diagnose since USB-carried protocols are a mess)
+5. Display having no retention, flickering or being halved.
+6. M.2 2230 SSD and slot not being dead.
+7. Keyboard not being squeaky or otherwise weird.
+8. Cooling fan may not be plugged in (happened on one unit).
+9. SD slots working as intended individually (note: they are not working simultaneously by design).
+10. Paint not flaking on gamepad covers.
+11. Properly seated/fixed/installed shoulder controls
+12. Temps should be also checked, might need repasting
 
 # Options for adjusting TDP in windows
 1. [MotionAssistant V1.1.5.9](https://cdn.discordapp.com/attachments/802730777443958824/1077771241643065384/MotionAssistant_Setup_1159.msi)

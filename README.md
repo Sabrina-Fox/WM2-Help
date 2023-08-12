@@ -6,12 +6,12 @@ A list of things useful to owners of the GPD Win Max 2
 1. Test gpu under load for black screen. (Use graphically heavy games, 3dmark, photoshop, etc.)
 2. Check bios version to make sure its up to date (Only update if necessary, see #1)
 3. Test all keyboard keys (A lot of people are having issues with missed inputs) If you're having issues, try putting tape under the keycap
-4. Test analog deadzones and [update firmware](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file) if needed
+4. Test analog deadzones and update firmware if needed
 5. Test for static shock (Some dude was getting shocked by his unit occasionally lmao)
 6. Look for dead pixels
 7. Test if micro sd & sd card can be read. A lot of users were having issues with it disconnecting and reconnecting. This problem doesn't immediately show up, so if you use  SD and Micro SD a lot, I would monitor this.
 8. Touch screen deadzones. Make sure all corners of the screen can be touched correctly. (I'd recommend touching and dragging each corner on the desktop to test this)
-9. Make sure touch pad isn't going insane. (If it is, install [firmware update](https://drive.google.com/file/d/1QlJEQPft1qemrM8F5jseteMwCc7-kVY_/view) from gpd)
+9. Make sure touch pad isn't going insane. (If it is, install firmware update from gpd)
 10. Make sure screen is glued correctly (Some dude could see into his unit through a gap in the upper half of the screen lmao)
 11. Do a full scan for malware with Microsoft defender. It should catch whatever worm or virus if any. Or just reinstall OS if you aren't lazy like me.
 12. [Test analog stick circularity.](https://gamepad-tester.com/)
@@ -46,26 +46,35 @@ A list of things useful to owners of the GPD Win Max 2
 
 
 
-# Tools:
-1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)<br/>
-2. [Driver pack from GPD(V5)(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)<br/>
-3. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
-4. [Windows 11 21H2 with inclued drivers from GPD](https://drive.google.com/file/d/1PXQXYhxqyNU3t-T-MWH4cnsPz32KuHID/view?usp=sharing)<br/>
+# Tools(FOR ALL MODELS):
+1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)
+2. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
+3. [MotionAssistant V1.1.6.2](https://drive.google.com/file/d/1CJwY2_PJbjtL4gwY6F5po5M0hy669_N1/view)
+4. [WinControls v1.06](https://www.gpd.hk/filedownload/88995)
+5. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)
+6. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)
+7. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)
+8. [Ciphray's TDP bat menu(Latest in pinned messages)](https://discord.com/channels/243411108940087297/1065818597844340777)
+9. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)
+10. [Calibration file for the WM2 screen courtesy of Cwiiis#7703 on discord.](https://discord.com/channels/243411108940087297/802730777443958824/1057673626435989544)
+11. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)
+12. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+13. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)
+14. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)
+
+# Downloads(FOR WM2 2022)
+1. [Driver pack from GPD(V5)(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)
+2. [WM2 BIOS files(FOR WM2 2022 ONLY)](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
+3. [Windows 11 22H2 with inclued drivers from GPD(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1avKSQQxHK625s0sXWBignfJ0p7I081jE/view)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
-5. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)<br/>
-6. [WinControls v1.06](https://www.gpd.hk/filedownload/88995)
-7. [MotionAssistant V1.1.5.9](https://cdn.discordapp.com/attachments/802730777443958824/1077771241643065384/MotionAssistant_Setup_1159.msi)<br/>
-8. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)<br/>
-9. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)<br/>
-10. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)<br/>
-11. [Script for adding extra resolutions and refresh rates](https://discord.com/channels/243411108940087297/802730777443958824/1040061390158827650)<br />
-12. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)<br/>
-13. [Ciphray's TDP bat menu(Latest in pinned messages)](https://discord.com/channels/243411108940087297/1065818597844340777)<br/>
-14. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)<br/>
-15. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)<br/>
-16. [Calibration file for the WM2 screen courtesy of Cwiiis#7703 on discord.](https://discord.com/channels/243411108940087297/802730777443958824/1057673626435989544)<br/>
-17. [WM2 Bios files(FOR WM2 2022 ONLY)](https://discord.com/channels/243411108940087297/826965330965430272/1040093726380396554)<br/>
-###### Credits to miracy#7746 on Discord for the instructions.
+
+# Downloads(FOR WM2 2023)
+1. [Driver pack from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/15qrObeudSKq53LZENx3afs_FqZNhFXEi/view)
+2. WM2 BIOS files: TBD
+3. [Windows 11 22H2 with inclued drivers from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1o-jxBR0aCvIJrOcTarW-Y-2Ezjt7Xps3/view)<br/>
+###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
+
+###### BIOS files usage instructions.(Credits to miracy#7746 on Discord for the instructions.)
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.
 ###### 2. In Windows, if you are using Bitlocker, open the start menu, type in bitlocker, open that control panel, and select the option to suspend Bitlocker. IF YOU USE BITLOCKER MAKE SURE YOU HAVE THE RECOVERY KEY AVAILABLE SOMEWHERE.
 ###### 3. Shut the computer down. Turn it back on and press delete at the beginning of the boot sequence to open the UEFI (you can spam it).

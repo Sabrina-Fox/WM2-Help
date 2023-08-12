@@ -14,11 +14,11 @@ A list of things useful to owners of the GPD Win Max 2
 9. Make sure touch pad isn't going insane. (If it is, install firmware update from gpd)
 10. Make sure screen is glued correctly (Some dude could see into his unit through a gap in the upper half of the screen lmao)
 11. Do a full scan for malware with Microsoft defender. It should catch whatever worm or virus if any. Or just reinstall OS if you aren't lazy like me.
-12. [Test analog stick circularity.](https://gamepad-tester.com/)
+12. Physical appereance of the paint on the metalic parts.
 13. Make sure keycaps don't have cracks in them.
 14. Make sure Dpad is working correctly.
 15. Make sure remote play is working correctly. (A user was having issues with the screen randomly going black and having to force the machine to shut down.)
-16. Physical appereance of the paint on the metalic parts.
+
 ###### Extra things to check for the Win Max 2 2023 refresh.
 1. Functionality of the onboard HDMI port.
 2. If the device is able to run stably with the RAM speed at 7500MT/s.

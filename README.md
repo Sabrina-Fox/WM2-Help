@@ -124,6 +124,8 @@ A list of things useful to owners of the GPD Win Max 2
 1. The 780M iGPU is falsely reported as 760M with the drivers from the inital launch from AMD.
 2. Some HDMI ports are DOA.
 3. Some units cannot run stably with RAM speed at 7500MT/s
+4. Some units arrived with dead USB-C ports and some stops working over time including charging.
+5. Some units blackscreens/shutdown when plugged in to charge.
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>

@@ -65,13 +65,13 @@ A list of things useful to owners of the GPD Win Max 2
 # Downloads(FOR WM2 2022)
 1. [Driver pack from GPD(V5)(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)
 2. [WM2 BIOS V1.05 files(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1QDxop-R8PEQ6uLCJDsu4gTd4ULfbFTVV/view)<br/>
-3. [Windows 11 22H2 with inclued drivers from GPD(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1avKSQQxHK625s0sXWBignfJ0p7I081jE/view)<br/>
+3. [Windows 11 Home 22H2 with inclued drivers from GPD(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1avKSQQxHK625s0sXWBignfJ0p7I081jE/view)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 
 # Downloads(FOR WM2 2023)
-1. [Driver pack from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/15qrObeudSKq53LZENx3afs_FqZNhFXEi/view)
+1. [Driver pack from GPD(V2.1)(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/15qrObeudSKq53LZENx3afs_FqZNhFXEi/view)
 2. WM2 BIOS files: TBD
-3. [Windows 11 22H2 with inclued drivers from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1o-jxBR0aCvIJrOcTarW-Y-2Ezjt7Xps3/view)<br/>
+3. [Windows 11 Home 22H2 with inclued drivers from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1o-jxBR0aCvIJrOcTarW-Y-2Ezjt7Xps3/view)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 
 ###### BIOS files usage instructions.(Credits to miracy#7746 on Discord for the instructions.)

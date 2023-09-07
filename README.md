@@ -122,7 +122,7 @@ A list of things useful to owners of the GPD Win Max 2
 6. Some Bitrates and Sample Rates for the built-in DAC are sometimes missing on windows.(See below for fix)
 7. Sometimes the trackpad might stop working and the firmware update tool fails to recognize the device.(See below for potential fix)
 ###### Known WM2 2023 specific issues
-1. The 780M iGPU is falsely reported as 760M with the drivers from the inital launch from AMD.
+1. The 780M iGPU is falsely reported as 760M with the drivers from the inital launch from AMD(See below for fix).
 2. Some HDMI ports are DOA.
 3. Some units cannot run stably with RAM speed at 7500MT/s
 4. Some units arrived with dead USB-C ports and some stops working over time including charging.
@@ -168,7 +168,9 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 3. Go to "GFX Configuration"
 4. Change "UMA Frame buffer Size" to desired value, the recommended value is 4GB for 16GB RAM model and 8GB for 32GB RAM model.
 5. Press ESC and go to "Save & Exit" tab
-6. Select "Save Changes and Exit" and select "Yes" 
+6. Select "Save Changes and Exit" and select "Yes"
+###### Fix for falsely reported iGPU
+1. Update BIOS and drivers.
 
 # Unlock higher than 28W TDP
 ###### Values shown are for 6800u Win Max 2, values will be different for Win Max 2 2023

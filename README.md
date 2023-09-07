@@ -32,7 +32,7 @@ A list of things useful to owners of the GPD Win Max 2
 # Options for adjusting TDP in windows
 1. [MotionAssistant V1.1.5.9](https://cdn.discordapp.com/attachments/802730777443958824/1077771241643065384/MotionAssistant_Setup_1159.msi)
 ![MotionAssistant](https://user-images.githubusercontent.com/74781086/206900788-e8e89c61-833b-4507-871c-33496eb228d1.gif)
-2. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/826965330965430272/830845629978247209)
+2. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/1065818597844340777)
 ![TDP Bat](https://user-images.githubusercontent.com/74781086/206900455-b058a29e-f4ae-438d-b444-5b2dcbcfa981.png)
 3. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)
 ![PCP](https://user-images.githubusercontent.com/74781086/206900406-57df3589-3ee1-47e6-a303-9cdc6c9552c1.png)

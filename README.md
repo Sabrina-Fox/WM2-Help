@@ -61,6 +61,7 @@ A list of things useful to owners of the GPD Win Max 2
 12. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
 13. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)
 14. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)
+15. [A tool for automatically managing game settings based on eGPU status and hotplugging oculink/PCIe eGPUs(EARLY DEVELOPMENT)](https://github.com/diego351/handheld-config)
 
 # Downloads(FOR WM2 2022)
 1. [Driver pack from GPD(V5)(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)

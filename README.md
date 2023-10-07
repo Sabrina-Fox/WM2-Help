@@ -30,7 +30,7 @@ A list of things useful to owners of the GPD Win Max 2
 8. If the shoulder buttons and/or the triggers are seated properly.
 
 # Options for adjusting TDP in windows
-1. [MotionAssistant V1.1.5.9](https://cdn.discordapp.com/attachments/802730777443958824/1077771241643065384/MotionAssistant_Setup_1159.msi)
+1. [MotionAssistant V1.1.7.3](https://cdn.discordapp.com/attachments/802730777443958824/1156457637861404742/MotionAssistant_Setup_1173.msi?ex=652f689a&is=651cf39a&hm=f8f619bd01d3d8acd5a2b66ba44c31fa70c2ccf878cacc6b1aa7098c139d7e84&)
 ![MotionAssistant](https://user-images.githubusercontent.com/74781086/206900788-e8e89c61-833b-4507-871c-33496eb228d1.gif)
 2. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/1065818597844340777)
 ![TDP Bat](https://user-images.githubusercontent.com/74781086/206900455-b058a29e-f4ae-438d-b444-5b2dcbcfa981.png)

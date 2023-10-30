@@ -71,7 +71,7 @@ A list of things useful to owners of the GPD Win Max 2
 
 # Downloads(FOR WM2 2023)
 1. [Driver pack from GPD(V2.1)(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/15qrObeudSKq53LZENx3afs_FqZNhFXEi/view)
-2. [WM2 BIOS V0.32 files(FOR WM2 2023 ONLY)](https://download.hkwezhan.cn/contents/sitefiles3601/18006016/files/108754..rar?response-content-disposition=attachment%3Bfilename%3DWIN%2BMax%2B2%282023%29_Bios_V0.32.rar&response-content-type=application%2Foctet-stream&auth_key=1694096533-ca74c49189724a998085f6856610f2df-0-d921ec66012f7617622d75444d6719c2)
+2. [WM2 BIOS V0.35 files(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1Y6HbztcFw7XQaJuUUzme4K_Uy_QXxN9V/view?usp=sharing)
 3. [Windows 11 Home 22H2 with inclued drivers from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1o-jxBR0aCvIJrOcTarW-Y-2Ezjt7Xps3/view)<br/>
 ###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 

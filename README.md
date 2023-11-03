@@ -1,6 +1,6 @@
 # GPD Win Max 2 Wiki/Guide
 A list of things useful to owners of the GPD Win Max 2
-
+Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasing a GPD product for the first time.
 # A check list of things to check on a new device
 ###### Credits to SuperSexySoapTurtle#6606 on discord.
 1. Test gpu under load for black screen. (Use graphically heavy games, 3dmark, photoshop, etc.)

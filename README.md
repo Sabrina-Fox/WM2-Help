@@ -30,7 +30,7 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 8. If the shoulder buttons and/or the triggers are seated properly.
 
 # Options for adjusting TDP in windows
-1. [MotionAssistant V1.1.7.3](https://cdn.discordapp.com/attachments/802730777443958824/1156457637861404742/MotionAssistant_Setup_1173.msi?ex=652f689a&is=651cf39a&hm=f8f619bd01d3d8acd5a2b66ba44c31fa70c2ccf878cacc6b1aa7098c139d7e84&)
+1. [MotionAssistant V1.1.7.3](https://drive.google.com/file/d/1yMVdNB3ppVvnGrzuOSTbIqfsGm1F7_tE/view)
 ![MotionAssistant](https://user-images.githubusercontent.com/74781086/206900788-e8e89c61-833b-4507-871c-33496eb228d1.gif)
 2. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/1065818597844340777)
 ![TDP Bat](https://user-images.githubusercontent.com/74781086/206900455-b058a29e-f4ae-438d-b444-5b2dcbcfa981.png)
@@ -49,7 +49,7 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 # Tools(FOR ALL MODELS):
 1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)
 2. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
-3. [MotionAssistant V1.1.6.2](https://drive.google.com/file/d/1CJwY2_PJbjtL4gwY6F5po5M0hy669_N1/view)
+3. [MotionAssistant V1.1.7.3](https://drive.google.com/file/d/1yMVdNB3ppVvnGrzuOSTbIqfsGm1F7_tE/view)
 4. [WinControls v1.06](https://www.gpd.hk/filedownload/88995)
 5. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)
 6. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)

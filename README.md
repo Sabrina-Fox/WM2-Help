@@ -29,18 +29,18 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 7. If the device thermal throttles even with a good airflow at stock TDP.
 8. If the shoulder buttons and/or the triggers are seated properly.
 
-# Options for adjusting TDP in windows
-1. [MotionAssistant V1.1.7.3](https://drive.google.com/file/d/1yMVdNB3ppVvnGrzuOSTbIqfsGm1F7_tE/view)
+# Options for adjusting TDP in windows ([Download links](https://github.com/SabrinaRDC/WM2-Help#toolsfor-all-models))
+1. MotionAssistant
 ![MotionAssistant](https://user-images.githubusercontent.com/74781086/206900788-e8e89c61-833b-4507-871c-33496eb228d1.gif)
-2. [Ciphray's TDP bat menu](https://discord.com/channels/243411108940087297/1065818597844340777)
+2. Ciphray's TDP bat menu
 ![TDP Bat](https://user-images.githubusercontent.com/74781086/206900455-b058a29e-f4ae-438d-b444-5b2dcbcfa981.png)
-3. [Power Control Panel](https://github.com/project-sbc/Power-Control-Panel-v2)
+3. Power Control Panel
 ![PCP](https://user-images.githubusercontent.com/74781086/206900406-57df3589-3ee1-47e6-a303-9cdc6c9552c1.png)
-4. [Handheld Companion](https://github.com/Valkirie/HandheldCompanion)
+4. Handheld Companion
 ![HC](https://user-images.githubusercontent.com/14330834/184693435-7df5ad40-ddb1-4359-9335-1a5804441dc3.png)
-5. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)
+5. Handheld Control Panel
 ![HCP](https://github.com/SabrinaRDC/WM2-Help/assets/74781086/e0123c3d-29b0-42bf-ba0d-280909f005ea)
-6. [RyzenAdj](https://github.com/FlyGoat/RyzenAdj)
+6. RyzenAdj
 # Options for adjusting TDP in Linux
 1. [RyzenAdj](https://github.com/FlyGoat/RyzenAdj)
 

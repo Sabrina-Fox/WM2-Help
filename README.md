@@ -86,7 +86,7 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 ###### 8. When you get back to Windows, you should not need to undo 2. Or at least Bitlocker had turned itself back on by this time.
 
 # Full BIOS menu tree of the 2023 WM2
-The BIOS [Menu Tree](https://cryptpad.fr/code/#/2/code/view/eYbhlShJI4118DQ0Qm-d9S+j1OUd8PFpcoM2yrvzQuU/embed/present/) on the 2023 WM2 with full credit going to [@dreirund](https://github.com/dreirund) for mapping out the entire BIOS!
+The BIOS [Menu Tree](https://cryptpad.fr/code/#/2/code/view/eYbhlShJI4118DQ0Qm-d9S+j1OUd8PFpcoM2yrvzQuU/embed/present/) on the 2023 WM2 with full credit going to [u/dreieckli](https://www.reddit.com/user/dreieckli) for mapping out the entire BIOS!
 
 # Useful information
 1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.

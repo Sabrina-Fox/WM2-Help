@@ -85,6 +85,9 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 ###### 7. At this point, unplug the USB drive. I had to turn the computer on manually again. It takes some extra time for the boot logo to come up - just be patient. Use delete to enter UEFI again and undo steps 4-5 as needed (turn secure boot back on and change the primary boot drive back to the NVME).
 ###### 8. When you get back to Windows, you should not need to undo 2. Or at least Bitlocker had turned itself back on by this time.
 
+# Full BIOS menu tree of the 2023 WM2
+The BIOS [Menu Tree](https://cryptpad.fr/code/#/2/code/view/eYbhlShJI4118DQ0Qm-d9S+j1OUd8PFpcoM2yrvzQuU/embed/present/) on the 2023 WM2 with full credit going to [@dreirund](https://github.com/dreirund) for mapping out the entire BIOS!
+
 # Useful information
 1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.
 2. All WM2 comes with the same PD 20v 5A charger with a 1 meter cable in box, the charger uses the Chinese/US two prong plug and comes with an adapter for your region if your plug is different.

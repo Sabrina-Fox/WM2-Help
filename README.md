@@ -90,21 +90,23 @@ The BIOS [Menu Tree](https://cryptpad.fr/code/#/2/code/view/eYbhlShJI4118DQ0Qm-d
 
 # Useful information
 1. For chargers, it MUST support AT LEAST PD3.0 15v 3A to trickle charge, but the OS might force your TDP down when plugged in to a charger like that to try to ensure the battery gets charged, a charger that support 20v is heavily recommanded for use while the device is under load(eg. gaming while plugged in), 20v 3A is good enough to play games and charge at the same time, but with a 20v 5A charger and e-marked cable it will be faster if the TDP is high and you are loading the device heavily.
-2. All WM2 comes with the same PD 20v 5A charger with a 1 meter cable in box, the charger uses the Chinese/US two prong plug and comes with an adapter for your region if your plug is different.
-3a. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p(0.55% of output) at 20MHz BW limit(This results only applies to the stock charger that came with the original Win Max 2 2022, although the one that comes with the 2023 model might be very similar or the same electrically).<br/>
+2. All WM2 comes with the same PD 20v 5A charger with a 1 meter cable in box, the charger uses the Chinese/US two prong plug and comes with an adapter for your region if your plug is different.<br/>
+3. The included charger have been tested to be safe for both you and the device, the switching frequency is around 100kHz and a quick power analysis have been done to test the voltage ripple under full 20v 5A load with the results coming out at around 110mVp-p(0.55% of output) at 20MHz BW limit(This results only applies to the stock charger that came with the original Win Max 2 2022, although the one that comes with the 2023 model might be very similar or the same electrically).<br/>
 ![image](https://user-images.githubusercontent.com/74781086/205165719-66f6aeb6-fe70-4712-878d-a348c3253339.png)
-3b. Secondary voltage referenced to mains earth(This results only applies to the stock charger that came with the original Win Max 2 2022, although the one that comes with the 2023 model might be very similar or the same electrically).<br/>
+4. Secondary voltage referenced to mains earth(This results only applies to the stock charger that came with the original Win Max 2 2022, although the one that comes with the 2023 model might be very similar or the same electrically).<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535040-3858f99c-4b7b-4357-b6d0-5439fddd06ae.png)
-3c. Included charger under full 100w load, note the voltage drop is due to the cable used in the test and due to using a two point measurement instead of a four point measurement, the voltage drop is the same for other power supplies when running the same two point measurement(This results only applies to the stock charger that came with the original Win Max 2 2022, although the one that comes with the 2023 model might be very similar or the same electrically).<br/>
+5. Included charger under full 100w load, note the voltage drop is due to the cable used in the test and due to using a two point measurement instead of a four point measurement, the voltage drop is the same for other power supplies when running the same two point measurement(This results only applies to the stock charger that came with the original Win Max 2 2022, although the one that comes with the 2023 model might be very similar or the same electrically).<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206535289-74cc88b5-613e-4ca1-88af-ea797e4f6e00.png)<br/>
-4a. [3D printable grips and stand](https://www.printables.com/model/327602-grips-for-gpd-win-max-2) by Qaz#5952 on Discord<br/>
+6. [3D file of the bottom panel](https://github.com/SabrinaRDC/WM2-Help/blob/main/00_rear_top.stp) courtesy of @tostarrito on Discord<br/>
+![image](https://github.com/SabrinaRDC/WM2-Help/assets/74781086/0953412e-fa70-47d0-a4f9-61665272bbe3)
+7. [3D printable grips and stand](https://www.printables.com/model/327602-grips-for-gpd-win-max-2) by Qaz#5952 on Discord<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533235-70f88091-1914-4457-b98d-6c5a277de22a.png)
-4b. [3D printable grips](https://www.printables.com/model/326903-gpd-win-max-2-grips) by Tåkefyrsten#5455 on Discord<br/>
+8. [3D printable grips](https://www.printables.com/model/326903-gpd-win-max-2-grips) by Tåkefyrsten#5455 on Discord<br/>
 ![image](https://user-images.githubusercontent.com/74781086/206533789-085c0d6e-0363-49ab-9504-b6147b6d403b.png)
-5. [Video](https://www.youtube.com/watch?v=mC0WuAD7fIo) instructions on how to install the LTE module<br/>
-6. Oculink Performance requirements for cables and connectors
+9. [Video](https://www.youtube.com/watch?v=mC0WuAD7fIo) instructions on how to install the LTE module<br/>
+10. Oculink Performance requirements for cables and connectors
 ![image](https://cdn.discordapp.com/attachments/802730777443958824/1107871527707344977/image.png)
-7. Links to various accessories for the WM2 on Aliexpress and Taobao.
+11. Links to various accessories for the WM2 on Aliexpress and Taobao.
 ###### Aliexpress links for overseas buyers.
 ###### 1. [Carrying case](https://www.aliexpress.com/item/1005004981462180.html?spm=a2g0o.productlist.0.0.1eb01ffcAcvSBg&algo_pvid=9ddfd655-645c-4b1a-8e83-c76be23516ce&algo_exp_id=9ddfd655-645c-4b1a-8e83-c76be23516ce-17&pdp_ext_f=%7B%22sku_id%22%3A%2212000031229958523%22%7D&pdp_npi=2%40dis%21HKD%21180.44%21119.08%21%21%21%21%21%402101e9d216705247710423384e86be%2112000031229958523%21sea&curPageLogUid=mVdTrTNmzWS6)
 ###### 2. [Keyboard cover](https://www.aliexpress.com/item/1005004825576824.html?spm=a2g0o.productlist.0.0.1eb01ffcAcvSBg&algo_pvid=9ddfd655-645c-4b1a-8e83-c76be23516ce&algo_exp_id=9ddfd655-645c-4b1a-8e83-c76be23516ce-21&pdp_ext_f=%7B%22sku_id%22%3A%2212000030631672795%22%7D&pdp_npi=2%40dis%21HKD%2173.0%2173.0%21%21%21%21%21%402101e9d216705247710423384e86be%2112000030631672795%21sea&curPageLogUid=g42LBIfJ7Ywm)

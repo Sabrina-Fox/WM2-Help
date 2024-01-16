@@ -133,6 +133,12 @@ The BIOS [Menu Tree](https://cryptpad.fr/code/#/2/code/view/eYbhlShJI4118DQ0Qm-d
 4. Some units cannot run stably with RAM speed at 7500MT/s
 5. Some units arrived with dead USB-C ports and some stops working over time including charging.
 6. Some units blackscreens/shutdown when plugged in to charge.
+###### Known WM2 2023 specific issues (Linux)
+1. Suspend may not work well, you may disable sleep wakeups [from some problematic I2C devices](https://gitlab.freedesktop.org/drm/amd/-/issues/3073#note_2237586):
+   ```
+    echo disabled > /sys/bus/i2c/devices/i2c-GXTP7385:00/power/wakeup
+    echo disabled > /sys/bus/i2c/devices/i2c-PNP0C50:00/power/wakeup
+   ```
 
 # Workarounds
 ###### SD card slots disconneting constantly workaround, credits to ciphray#8122 on discord for the workaround, credits to Xryptic#5251 on discord for the instructions.<br/>

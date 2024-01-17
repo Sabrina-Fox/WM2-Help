@@ -185,6 +185,11 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 1. Update BIOS and drivers.
 ###### Fix for drivers not installing correctly
 1. Update BIOS and drivers.
+###### Fix for distorted 3.5mm jack headphones sound (DTS always working without ability to disable)
+1. Download DTS archive from GPD's support section for WM2.
+2. Run the uninstall script as admin (possibly reboot for good measure).
+3. Run the install script as admin (again could reboot). Now the apps should be installed (if you can't find them from start menu - try opening them through Microsoft store or the audio page in Windows).
+4. Now the sound should be working correctly and you should be able to disable the effects. As a precaution try not updating the DTS apps, the weird behavior might be caused by an update.
 
 # Unlock higher than 28W TDP
 ###### Values shown are for 6800u Win Max 2, values will be different for Win Max 2 2023

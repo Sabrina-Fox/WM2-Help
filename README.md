@@ -190,6 +190,13 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 2. Run the uninstall script as admin (possibly reboot for good measure).
 3. Run the install script as admin (again could reboot). Now the apps should be installed (if you can't find them from start menu - try opening them through Microsoft store or the audio page in Windows).
 4. Now the sound should be working correctly and you should be able to disable the effects. As a precaution try not updating the DTS apps, the weird behavior might be caused by an update.
+###### Fix for DTS package not installing correctly
+1. Most likely you unpacked it to non-system (not C:) drive. It will complain about missing files. Unpack the archive to system drive and re-run the install.
+###### Fix for DTS package complaining about too long paths when unzipping
+0. As a possible fix lift the Windows 260 characters path limit, it may affect the issue (tweakers like [SophiApp](https://github.com/Sophia-Community/SophiApp) can do that).
+1. Unpack to the shortest possible path (f.ex. `C:/dts` should work).
+###### Fix for WinGet being broken on Windows 11 (empty output, console turns blue)
+1. It's a generic issue with WinGet on Win11. See this issue for solutions: https://github.com/microsoft/winget-cli/issues/3832
 
 # Unlock higher than 28W TDP
 ###### Values shown are for 6800u Win Max 2, values will be different for Win Max 2 2023

@@ -139,6 +139,13 @@ The BIOS [Menu Tree](https://cryptpad.fr/code/#/2/code/view/eYbhlShJI4118DQ0Qm-d
     echo disabled > /sys/bus/i2c/devices/i2c-GXTP7385:00/power/wakeup
     echo disabled > /sys/bus/i2c/devices/i2c-PNP0C50:00/power/wakeup
    ```
+   
+   This can be done on boot by placing the following in `/etc/udev/rules.d/20-wm2-i2c-nowake.rules`:
+   ```
+   SUBSYSTEM=="i2c", KERNEL=="i2c-PNP0C50:00", ATTR{power/wakeup}="disabled"
+   SUBSYSTEM=="i2c", KERNEL=="i2c-GXTP7385:00", ATTR{power/wakeup}="disabled"
+   ```
+   
 2. Disable acpi wakeups 
    ```
    for i in $(cat /proc/acpi/wakeup|grep enabled|awk '{print $1}'|xargs); do case $i in SLPB|XHCI);; *) echo $i|tee /proc/acpi/wakeup ; esac; done

@@ -213,22 +213,28 @@ https://user-images.githubusercontent.com/74781086/206918588-2c9fbe71-5bef-4f38-
 ###### Fix for WinGet being broken on Windows 11 (empty output, console turns blue)
 1. It's a generic issue with WinGet on Win11. See this issue for solutions: https://github.com/microsoft/winget-cli/issues/3832
 ###### Disable the back buttons
-The back buttons will cause keypress, when they are accidently pressed. The device is called `Mouse for Windows`, and can be disabled with a udev rule.
+The back buttons will cause keypress, when they are accidently pressed. The device is called `Mouse for Windows`, and can be disabled with the following command.
 
-      ACTION=="add", ATTR{idVendor}=="2f24", ATTR{idProduct}=="135", RUN="/bin/sh -c 'echo 0 >/sys/\$devpath/authorized'"
+    echo 0 > /sys/bus/usb/devices/usb1/1-4/authorized
 
-To confirm the device id one can use `swaymsg -t get_inputs`.
+The device will be enabled after resuming from hibernation in which case a systemd service helps.
 
-      {
-        "identifier": "12068:309:Mouse_for_Windows",
-        "name": "  Mouse for Windows",
-        "vendor": 12068,
-        "product": 309,
-        "type": "keyboard",
-        "libinput": {
-          "send_events": "enabled"
-        }
-      }
+    echo '[Unit]
+    Description=Local system resume actions
+    After=suspend.target
+
+    [Service]
+    Type=simple
+    ExecStart=echo 0 > /sys/bus/usb/devices/usb1/1-4/authorized
+
+    [Install]
+    WantedBy=suspend.target' > /etc/systemd/system/root-resume.service
+
+    systemctl enable root-resume
+
+To confirm the device id one can use `lsusb`.
+
+    Bus 001 Device 014: ID 2f24:0135   Mouse for Windows
 
 # Unlock higher than 28W TDP
 ###### Values shown are for 6800u Win Max 2, values will be different for Win Max 2 2023

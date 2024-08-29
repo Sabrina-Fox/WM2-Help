@@ -49,8 +49,8 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 # Tools(FOR ALL MODELS):
 1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)
 2. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
-3. [MotionAssistant V1.1.7.3](https://drive.google.com/file/d/1yMVdNB3ppVvnGrzuOSTbIqfsGm1F7_tE/view)
-4. [WinControls v1.06](https://www.gpd.hk/filedownload/88995)
+3. [MotionAssistant V1.1.9.8](https://drive.google.com/file/d/1LgJHD9IbDDwEfgbixEiNMjhKRiCofrC-/view)
+4. [WinControls v1.15](https://drive.google.com/file/d/1lQdlk27HdU_M082_QGaqY2bH91AY3J6c/view)
 5. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)
 6. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)
 7. [Performance overlay for WM2](https://discord.com/channels/243411108940087297/826965330965430272/1045420389368594472)
@@ -62,18 +62,15 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 13. [Handheld Control Panel](https://github.com/project-sbc/Handheld-Control-Panel)
 14. [WIN Max 2 grip customization tool](https://www.gpd.hk/filedownload/88995)
 15. [A tool for automatically managing game settings based on eGPU status and hotplugging oculink/PCIe eGPUs(EARLY DEVELOPMENT)](https://github.com/diego351/handheld-config)
+16. [Driver pack from GPD(V3.4)(FOR WM2 2022/2023/2024)](https://drive.google.com/file/d/19MALLPUxRZHsXjcP-VP3synRRxTwBc19/view)
+17. [Windows 11 Home with inclued drivers from GPD(FOR WM2 2022/2023/2024)](https://drive.google.com/file/d/1LY44bRqhijfFIsHbGPV0BARA8DGwy6i7/view)<br/>
+###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
 
 # Downloads(FOR WM2 2022)
-1. [Driver pack from GPD(V5)(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1oKFFadZp4it-044eSPSE_tzKfynbiyYW/view)
-2. [WM2 BIOS V1.05 files(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1QDxop-R8PEQ6uLCJDsu4gTd4ULfbFTVV/view)<br/>
-3. [Windows 11 Home 22H2 with inclued drivers from GPD(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1avKSQQxHK625s0sXWBignfJ0p7I081jE/view)<br/>
-###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
+1. [WM2 BIOS V1.05 files(FOR WM2 2022 ONLY)](https://drive.google.com/file/d/1QDxop-R8PEQ6uLCJDsu4gTd4ULfbFTVV/view)<br/>
 
-# Downloads(FOR WM2 2023)
-1. [Driver pack from GPD(V2.1)(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/15qrObeudSKq53LZENx3afs_FqZNhFXEi/view)
-2. [WM2 BIOS V0.35 files(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1Y6HbztcFw7XQaJuUUzme4K_Uy_QXxN9V/view?usp=sharing)
-3. [Windows 11 Home 22H2 with inclued drivers from GPD(FOR WM2 2023 ONLY)](https://drive.google.com/file/d/1o-jxBR0aCvIJrOcTarW-Y-2Ezjt7Xps3/view)<br/>
-###### To use this image you will need to format a USB drive to NTFS and rename it to "WINPE" and copy everything in the zip file onto it, no need for flashing software.
+# Downloads(FOR WM2 2023 & 2024)
+1. [WM2 BIOS V0.41 files(FOR WM2 2023 & 2024 ONLY)](https://drive.google.com/file/d/17D1JKXrhEq1nrGigWAt6k5PUEzqizJ7p/view)
 
 ###### BIOS files usage instructions.(Credits to miracy#7746 on Discord for the instructions.)
 ###### 1. Download the file above and put the contents of the ZIP file in the root directory of a FAT32 USB (so that the startup.nsh file is in the root of the USB). You can leave this plugged in.

@@ -49,7 +49,7 @@ Read [this](https://github.com/SabrinaRDC/GPD-before-buying) if you are purchasi
 # Tools(FOR ALL MODELS):
 1. [AMD Software: Adrenalin Edition](https://www.amd.com/en/support)
 2. [Camera firmware from GPD](https://drive.google.com/file/d/1yjkOMQfk6b8E3DwNiwuMqxPgFg2GYQa5/view)
-3. [MotionAssistant V1.1.9.8](https://drive.google.com/file/d/1LgJHD9IbDDwEfgbixEiNMjhKRiCofrC-/view)
+3. [MotionAssistant V1.1.9.8](https://drive.google.com/file/d/1LgJHD9IbDDwEfgbixEiNMjhKRiCofrC-/view)(Password: 123)
 4. [WinControls v1.15](https://drive.google.com/file/d/1lQdlk27HdU_M082_QGaqY2bH91AY3J6c/view)
 5. [GamePad Test Calibration Tool V1.02](https://www.gpd.hk/filedownload/89292)
 6. [GPD Gamepad Firmware Tool V3.09/V1.21](https://www.mediafire.com/file/2lqucxtobzk0wfc/GPD_Gamepad_Firmware_Tool%25288%2529.exe/file)
